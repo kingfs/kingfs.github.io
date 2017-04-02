@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://yongzhen.wang/#intro</loc>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/#work</loc>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/#about</loc>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/#contact</loc>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/#</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
