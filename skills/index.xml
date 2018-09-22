@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills on 主页</title>
+    <link>http://yongzhen.wang/skills/</link>
+    <description>Recent content in Skills on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Sep 2018 18:00:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/skills/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>go语言</title>
+      <link>http://yongzhen.wang/skills/programgo/</link>
+      <pubDate>Sat, 22 Sep 2018 18:00:54 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/skills/programgo/</guid>
+      <description>Golang学习 待补充  初识Golang 忘了是什么时候开始第一次听说go，也记不住什么时候用go写第一个工具了，翻翻自己的落满灰尘的笔记本，隐约的看到16年7月份开始用go写一个监控程序,再往前倒儿，应该是在14年写过一个测试天融信防火墙设备心血漏洞的内部程序。</description>
+    </item>
+    
+    <item>
+      <title>C语言</title>
+      <link>http://yongzhen.wang/skills/programc/</link>
+      <pubDate>Sat, 22 Sep 2018 18:00:47 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/skills/programc/</guid>
+      <description> 初识C语言 说实话，真正接触C语言是在大学，上课没怎么学，工作以后才真的用c开发。
+ 高中搞奥赛的时候，老师为啥选pascal语言!!!~
+ </description>
+    </item>
+    
+    <item>
+      <title>Linux系统</title>
+      <link>http://yongzhen.wang/skills/linux/</link>
+      <pubDate>Sat, 22 Sep 2018 18:00:33 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/skills/linux/</guid>
+      <description>  会用，懂点吧
+ 用过的Linux发行版 收费的：RHEL ps:最早拿到一套魔力宝贝私服就得在redhat 6.0上跑 稳定的服务器版：Centos 经常更新：Fedora 非常流行：Ubuntu 用过一段：OpenSuse 国产自主 ：Kylin(多种国产麒麟linux: 湖南/天津/银河)  </description>
+    </item>
+    
+  </channel>
+</rss>

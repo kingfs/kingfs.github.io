@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on 主页</title>
+    <link>http://yongzhen.wang/tags/blog/</link>
+    <description>Recent content in Blog on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Sep 2018 02:13:37 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇原创</title>
+      <link>http://yongzhen.wang/original/first-original-blog/</link>
+      <pubDate>Sun, 23 Sep 2018 02:13:37 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/original/first-original-blog/</guid>
+      <description>Hello World 按照程序员一贯的套路，新学一个东西都会来的标准问候： Hello world！</description>
+    </item>
+    
+    <item>
+      <title>IBM开发者中心</title>
+      <link>http://yongzhen.wang/reference/ibm/</link>
+      <pubDate>Sun, 23 Sep 2018 01:57:01 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/reference/ibm/</guid>
+      <description> IBM文章收藏 待增加  </description>
+    </item>
+    
+    <item>
+      <title>使用hugo重建个人博客系统</title>
+      <link>http://yongzhen.wang/posts/rebuild-blog-by-hugo/</link>
+      <pubDate>Sat, 22 Sep 2018 23:42:35 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/posts/rebuild-blog-by-hugo/</guid>
+      <description> 相关软件版本    软件 版本 说明     MacOS high sierra 10.13.6 操作系统   Visual studio code 1.27.2 文本编辑器(强烈推荐)   Hugo v0.49-DEV 静态网站生成器   Golang 1.11 hugo源码编译器   Git 2.8.4 (Apple Git-73) 博客文档版本管理工具    4个小时的经验  hugo语法版本更新，导致以前到代码不能用了 之前都是简单配置hugo，这次准备下决心好好整一下博客，对hugo的功能也需要进一步了解 由于hugo v0.49要用golang 1.11版的go modules功能，因此顺手升级golang 长时间不用markdown，明显手生了很多，还是得多写多练了 顺便了解了一下toml语法 重新选择主题，先运行起来自己的博客，摸清楚hugo主题的编写规则后，重新制作主题 目前主题是基于hugo-coder主题进行修改，后续可能会进行大的调整，还是非常感谢作者编写的主题。  </description>
+    </item>
+    
+    <item>
+      <title>CSDN网站连接收藏</title>
+      <link>http://yongzhen.wang/reference/csdn/</link>
+      <pubDate>Sat, 22 Sep 2018 20:33:31 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/reference/csdn/</guid>
+      <description> CSDN文章收藏 待增加  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on 主页</title>
+    <link>http://yongzhen.wang/tags/go/</link>
+    <description>Recent content in Go on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Sep 2018 18:00:54 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>go语言</title>
+      <link>http://yongzhen.wang/skills/programgo/</link>
+      <pubDate>Sat, 22 Sep 2018 18:00:54 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/skills/programgo/</guid>
+      <description>Golang学习 待补充  初识Golang 忘了是什么时候开始第一次听说go，也记不住什么时候用go写第一个工具了，翻翻自己的落满灰尘的笔记本，隐约的看到16年7月份开始用go写一个监控程序,再往前倒儿，应该是在14年写过一个测试天融信防火墙设备心血漏洞的内部程序。</description>
+    </item>
+    
+  </channel>
+</rss>

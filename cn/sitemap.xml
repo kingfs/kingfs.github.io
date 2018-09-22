@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yongzhen.wang/original/first-original-blog/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/reference/ibm/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/posts/rebuild-blog-by-hugo/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/reference/csdn/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/skills/programgo/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/skills/programc/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/skills/linux/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/skills/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/posts/my-first-post/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/about/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/aboutme/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/blog/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/c/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/csdn/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/go/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/golang/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/history/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/hugo/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/ibm/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/linux/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/main/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/original/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/original/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/posts/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/reference/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/reference/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/skill/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/skills/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/system/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/</loc>
+    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/"
+                />
+  </url>
+  
+</urlset>
