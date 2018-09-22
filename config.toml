@@ -2,8 +2,8 @@ baseURL = "http://yongzhen.wang/"
 languageCode = "zh-cn"
 title = "王永振的个人网站"
 theme = "coder" # Set the theme.
-languagecode = "en" # The site’s language code used to generate RSS.
-defaultcontentlanguage = "en" # The default content language.
+languagecode = "cn" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "cn" # The default content language.
 
 paginate = 20 # Default number of pages per page in pagination.
 canonifyurls = true # Enable to turn relative URLs into absolute.
@@ -13,6 +13,8 @@ pygmentscodefences = true # Enable code fence background highlighting.
 pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
 
 disqusShortname = "" # Enable or disable Disqus.
+enableGitInfo = true
+
 
 [params] # theme parameters
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
@@ -28,6 +30,7 @@ disqusShortname = "" # Enable or disable Disqus.
 
     # Custom CSS
     custom_css = []
+    dateFormat = "2006-01-02"
 
 # Social links
 [[params.social]]

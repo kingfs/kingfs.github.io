@@ -5,5 +5,7 @@
     </header>
 
     {{ .Content }}
+    <br/>
+    <time>修改时间:{{ .Lastmod.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</time>
   </article>
 </section>
