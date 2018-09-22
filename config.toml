@@ -1,0 +1,129 @@
+baseURL = "http://yongzhen.wang/"
+languageCode = "zh-cn"
+title = "王永振的个人网站"
+theme = "coder" # Set the theme.
+languagecode = "en" # The site’s language code used to generate RSS.
+defaultcontentlanguage = "en" # The default content language.
+
+paginate = 20 # Default number of pages per page in pagination.
+canonifyurls = true # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+
+disqusShortname = "" # Enable or disable Disqus.
+
+[params] # theme parameters
+    avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+    disable_comments = true
+    footercontent = "" # Add footer content
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # to switch bewteen LTR and RTL layout
+    rtl = false
+
+    # Custom CSS
+    custom_css = []
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/kingfs"
+[[params.social]]
+    name = "Weibo"
+    icon = "fab fa-weibo fa-2x"
+    weight = 2
+    url = "https://weibo.com/kingfs"
+[[params.social]]
+    name = "WeiXin"
+    icon = "fab fa-weixin fa-2x"
+    weight = 3
+    url = "kingfs"
+[[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope fa-2x"
+    weight = 4
+    url = "mailto:zhenzhen086@126.com"
+
+[languages]
+    [languages.cn]
+        languagename = "Chinese" # The language name to be displayed in the selector.
+        title = "主页"
+
+        # You can configure the theme parameter for each language. 
+        [languages.cn.params]
+        author = "王永振"
+        info = "程序员|部门经理|天融信"
+        description = "王永振的个人网站"
+        keywords = "博客,程序员,天融信,分布式防火墙,网络安全"
+
+        [languages.cn.menu] # It is possible to change the menu too.
+
+        [[languages.cn.menu.main]]
+        name = "关于"
+        weight = 1.0
+        url = "/about/"
+        
+        [[languages.cn.menu.main]]
+        name = "技能"
+        weight = 1.0
+        url = "/skills/"
+        
+        [[languages.cn.menu.main]]
+        name = "原创"
+        weight = 2.0
+        url = "/original/"
+
+        [[languages.cn.menu.main]]
+        name = "引用"
+        weight = 3.0
+        url = "/reference/"
+
+        [[languages.cn.menu.main]]
+        name = "杂记"
+        weight = 4.0
+        url = "/posts/"
+
+   [languages.en]
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Main"
+
+        # You can configure the theme parameter for each language. 
+        [languages.en.params]
+        author = "Kingfs"
+        info = "Developer|DepartmentManager|Topsec"
+        description = "Kingfs's personal website"
+        keywords = "blog,developer,personal,topsec,vdfw,security"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+        [[languages.en.menu.main]]
+        name = "About"
+        weight = 1.0
+        url = "/about/"
+
+        [[languages.en.menu.main]]
+        name = "Skills"
+        weight = 1.0
+        url = "/skills/"
+
+        [[languages.en.menu.main]]
+        name = "Original"
+        weight = 2.0
+        url = "/original/"
+
+        [[languages.en.menu.main]]
+        name = "Reference"
+        weight = 3.0
+        url = "/reference/"
+
+        [[languages.en.menu.main]]
+        name = "Others"
+        weight = 4.0
+        url = "/posts/"

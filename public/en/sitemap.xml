@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://yongzhen.wang/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="http://yongzhen.wang/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://yongzhen.wang/en/tags/"
+                />
+  </url>
+  
+</urlset>
