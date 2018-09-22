@@ -1,7 +1,7 @@
 ---
 title: "技能列表"
 date: 2018-09-22T17:37:09+08:00
-draft: true
+draft: false
 categries: ["main"]
 tags: [
     "main",

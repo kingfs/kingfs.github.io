@@ -1,7 +1,7 @@
 ---
 title: "Linux系统"
 date: 2018-09-22T18:00:33+08:00
-draft: true
+draft: false
 catagories: [
     "linux",
     "skill",

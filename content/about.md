@@ -1,7 +1,7 @@
 ---
 title: "关于我"
 date: 2018-09-20T18:10:36+08:00
-draft: true
+draft: false
 categries: ["main"]
 tags: [
     "main",

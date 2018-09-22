@@ -1,7 +1,7 @@
 ---
 title: "go语言"
 date: 2018-09-22T18:00:54+08:00
-draft: true
+draft: false
 catagories: [
     "go",
     "golang",

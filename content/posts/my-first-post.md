@@ -1,7 +1,7 @@
 ---
 title: "个人博客历程"
 date: 2018-09-20T18:10:36+08:00
-draft: true
+draft: false
 catagories: [
     "history",
     "main",

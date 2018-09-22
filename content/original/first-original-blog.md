@@ -1,7 +1,7 @@
 ---
 title: "第一篇原创"
 date: 2018-09-23T02:13:37+08:00
-draft: true
+draft: false
 catagories: ["original", "blog"]
 tags: ["original", "blog"]
 ---
