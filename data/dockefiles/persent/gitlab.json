@@ -1,0 +1,28 @@
+[
+  {
+    "id": "present-documents",
+    "execute-command": "/root/dohook.sh",
+    "command-working-directory": "/root",
+    "pass-arguments-to-command":
+    [
+      {
+        "source": "payload",
+        "name": "wang_yongzhen"
+      }
+    ],
+    "response-message": "Executing redeploy script",
+    "trigger-rule":
+    {
+      "match":
+      {
+        "type": "value",
+        "value": "1234567890123456",
+        "parameter":
+        {
+          "source": "header",
+          "name": "X-Gitlab-Token"
+        }
+      }
+    }
+  }
+]
