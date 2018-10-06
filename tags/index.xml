@@ -39,11 +39,38 @@
     </item>
     
     <item>
+      <title>Clickhouse</title>
+      <link>http://yongzhen.wang/tags/clickhouse/</link>
+      <pubDate>Sat, 06 Oct 2018 15:14:17 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/tags/clickhouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Csdn</title>
       <link>http://yongzhen.wang/tags/csdn/</link>
       <pubDate>Sat, 22 Sep 2018 20:33:31 +0800</pubDate>
       
       <guid>http://yongzhen.wang/tags/csdn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>http://yongzhen.wang/tags/database/</link>
+      <pubDate>Sat, 06 Oct 2018 15:14:17 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/tags/database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://yongzhen.wang/tags/git/</link>
+      <pubDate>Sat, 06 Oct 2018 15:07:57 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/tags/git/</guid>
       <description></description>
     </item>
     
@@ -129,11 +156,29 @@
     </item>
     
     <item>
+      <title>Scm</title>
+      <link>http://yongzhen.wang/tags/scm/</link>
+      <pubDate>Sat, 06 Oct 2018 15:07:57 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/tags/scm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Skill</title>
       <link>http://yongzhen.wang/tags/skill/</link>
       <pubDate>Sat, 22 Sep 2018 18:00:33 +0800</pubDate>
       
       <guid>http://yongzhen.wang/tags/skill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>http://yongzhen.wang/tags/software/</link>
+      <pubDate>Sat, 06 Oct 2018 15:07:57 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/tags/software/</guid>
       <description></description>
     </item>
     

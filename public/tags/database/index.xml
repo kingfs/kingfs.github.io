@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on 主页</title>
+    <link>http://yongzhen.wang/tags/database/</link>
+    <description>Recent content in Database on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 06 Oct 2018 15:14:17 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>试用Clickhouse</title>
+      <link>http://yongzhen.wang/original/clickhouse/</link>
+      <pubDate>Sat, 06 Oct 2018 15:14:17 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/original/clickhouse/</guid>
+      <description> 说明 Clickhouse由俄罗斯yandex公司开发。专为在线数据分析而设计。Yandex是俄罗斯搜索引擎公司。官方提供的文档表名，ClickHouse 日处理记录数“十亿级”。
+Clickhouse Docker镜像 # 服务器 docker pull yandex/clickhouse-server # 客户端 docker pull yandex/clickhouse-client # web客户端 docker pull spoonest/clickhouse-tabix-web-client 服务启动 # 启动服务器 docker run -d --name some-clickhouse-server --ulimit nofile=262144:262144 yandex/clickhouse-server # 带自定义配置启动 docker run -d --name some-clickhouse-server --ulimit nofile=262144:262144 -v /path/to/your/config.xml:/etc/clickhouse-server/config.xml yandex/clickhouse-server docker run -d --name clickhouse-server --ulimit nofile=262144:262144 -v /home/kingfs/opensource/clickhouse/users.xml:/etc/clickhouse-server/users.xml -v /home/kingfs/opensource/clickhouse/config.xml:/etc/clickhouse-server/config.xml -p 8123:8123 -p 9000:9000 -p 9009:9009 yandex/clickhouse-server #启动客户端 docker run -it --rm --link some-clickhouse-server:clickhouse-server yandex/clickhouse-client --host clickhouse-server # 启动web客户端 docker run -d -p 8080:80 -e USER=&amp;#39;myuser&amp;#39; -e PASSWORD=&amp;#39;mypass&amp;#39; spoonest/clickhouse-tabix-web-client Clickhouse server配置 数据库增删改查 show database create database dbname 参考连接  Clickhouse github Clickhouse简介 Clickhouse golang开发接口  </description>
+    </item>
+    
+  </channel>
+</rss>

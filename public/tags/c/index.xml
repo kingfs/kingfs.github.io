@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on 主页</title>
+    <link>http://yongzhen.wang/tags/c/</link>
+    <description>Recent content in C on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 22 Sep 2018 18:00:47 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C语言</title>
+      <link>http://yongzhen.wang/skills/programc/</link>
+      <pubDate>Sat, 22 Sep 2018 18:00:47 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/skills/programc/</guid>
+      <description> 初识C语言 说实话，真正接触C语言是在大学，上课没怎么学，工作以后才真的用c开发。
+ 高中搞奥赛的时候，老师为啥选pascal语言!!!~
+ </description>
+    </item>
+    
+  </channel>
+</rss>

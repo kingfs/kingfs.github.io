@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://yongzhen.wang/original/clickhouse/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/original/sourcegraph/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yongzhen.wang/original/first-original-blog/</loc>
     <lastmod>2018-09-23T02:25:08+08:00</lastmod>
   </url>
@@ -86,8 +96,26 @@
   </url>
   
   <url>
+    <loc>http://yongzhen.wang/tags/clickhouse/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://yongzhen.wang/tags/csdn/</loc>
     <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/database/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/git/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -141,7 +169,7 @@
   
   <url>
     <loc>http://yongzhen.wang/original/</loc>
-    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -164,6 +192,12 @@
   </url>
   
   <url>
+    <loc>http://yongzhen.wang/tags/scm/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://yongzhen.wang/tags/skill/</loc>
     <lastmod>2018-09-23T02:25:08+08:00</lastmod>
     <priority>0</priority>
@@ -172,6 +206,12 @@
   <url>
     <loc>http://yongzhen.wang/skills/</loc>
     <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://yongzhen.wang/tags/software/</loc>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -199,7 +239,7 @@
   
   <url>
     <loc>http://yongzhen.wang/</loc>
-    <lastmod>2018-09-23T02:25:08+08:00</lastmod>
+    <lastmod>2018-10-06T15:32:26+08:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

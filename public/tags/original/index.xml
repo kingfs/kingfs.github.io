@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Original on 主页</title>
+    <link>http://yongzhen.wang/tags/original/</link>
+    <description>Recent content in Original on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Sep 2018 02:13:37 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/original/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇原创</title>
+      <link>http://yongzhen.wang/original/first-original-blog/</link>
+      <pubDate>Sun, 23 Sep 2018 02:13:37 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/original/first-original-blog/</guid>
+      <description>Hello World 按照程序员一贯的套路，新学一个东西都会来的标准问候： Hello world！</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aboutme on 主页</title>
+    <link>http://yongzhen.wang/tags/aboutme/</link>
+    <description>Recent content in Aboutme on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Sep 2018 18:10:36 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于我</title>
+      <link>http://yongzhen.wang/about/</link>
+      <pubDate>Thu, 20 Sep 2018 18:10:36 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/about/</guid>
+      <description>一个屌丝程序员。 不懂得什么叫编程，不懂得什么叫网络，不懂得什么叫安全～
+我还是给大家背首李白的《将进酒》吧～
+君不见，黄河之水天上来，奔流到海不复回。 君不见，高堂明镜悲白发，朝如青丝暮成雪。 人生得意须尽欢，莫使金樽空对月。 天生我材必有用，千金散尽还复来。 烹羊宰牛且为乐，会须一饮三百杯。 岑夫子，丹丘生，将进酒，杯莫停。 与君歌一曲，请君为我倾耳听。 钟鼓馔玉不足贵，但愿长醉不复醒。 古来圣贤皆寂寞，惟有饮者留其名。 陈王昔时宴平乐，斗酒十千恣欢谑。 主人何为言少钱，径须沽取对君酌。 五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。</description>
+    </item>
+    
+  </channel>
+</rss>

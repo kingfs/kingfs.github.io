@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference on 主页</title>
+    <link>http://yongzhen.wang/tags/reference/</link>
+    <description>Recent content in Reference on 主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 23 Sep 2018 01:57:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://yongzhen.wang/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IBM开发者中心</title>
+      <link>http://yongzhen.wang/reference/ibm/</link>
+      <pubDate>Sun, 23 Sep 2018 01:57:01 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/reference/ibm/</guid>
+      <description> IBM文章收藏 待增加  </description>
+    </item>
+    
+    <item>
+      <title>CSDN网站连接收藏</title>
+      <link>http://yongzhen.wang/reference/csdn/</link>
+      <pubDate>Sat, 22 Sep 2018 20:33:31 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/reference/csdn/</guid>
+      <description> CSDN文章收藏 待增加  </description>
+    </item>
+    
+  </channel>
+</rss>
