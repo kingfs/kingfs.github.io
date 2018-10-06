@@ -6,10 +6,30 @@
     <description>Recent content on 主页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 23 Sep 2018 02:13:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 06 Oct 2018 15:14:17 +0800</lastBuildDate>
     
 	<atom:link href="http://yongzhen.wang/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>试用Clickhouse</title>
+      <link>http://yongzhen.wang/original/clickhouse/</link>
+      <pubDate>Sat, 06 Oct 2018 15:14:17 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/original/clickhouse/</guid>
+      <description> 说明 Clickhouse由俄罗斯yandex公司开发。专为在线数据分析而设计。Yandex是俄罗斯搜索引擎公司。官方提供的文档表名，ClickHouse 日处理记录数“十亿级”。
+Clickhouse Docker镜像 # 服务器 docker pull yandex/clickhouse-server # 客户端 docker pull yandex/clickhouse-client # web客户端 docker pull spoonest/clickhouse-tabix-web-client 服务启动 # 启动服务器 docker run -d --name some-clickhouse-server --ulimit nofile=262144:262144 yandex/clickhouse-server # 带自定义配置启动 docker run -d --name some-clickhouse-server --ulimit nofile=262144:262144 -v /path/to/your/config.xml:/etc/clickhouse-server/config.xml yandex/clickhouse-server docker run -d --name clickhouse-server --ulimit nofile=262144:262144 -v /home/kingfs/opensource/clickhouse/users.xml:/etc/clickhouse-server/users.xml -v /home/kingfs/opensource/clickhouse/config.xml:/etc/clickhouse-server/config.xml -p 8123:8123 -p 9000:9000 -p 9009:9009 yandex/clickhouse-server #启动客户端 docker run -it --rm --link some-clickhouse-server:clickhouse-server yandex/clickhouse-client --host clickhouse-server # 启动web客户端 docker run -d -p 8080:80 -e USER=&amp;#39;myuser&amp;#39; -e PASSWORD=&amp;#39;mypass&amp;#39; spoonest/clickhouse-tabix-web-client Clickhouse server配置 数据库增删改查 show database create database dbname 参考连接  Clickhouse github Clickhouse简介 Clickhouse golang开发接口  </description>
+    </item>
+    
+    <item>
+      <title>试用Sourcegraph</title>
+      <link>http://yongzhen.wang/original/sourcegraph/</link>
+      <pubDate>Sat, 06 Oct 2018 15:07:57 +0800</pubDate>
+      
+      <guid>http://yongzhen.wang/original/sourcegraph/</guid>
+      <description> 说明 Sourcegraph 是一款能够根据语义来把Web上的开源代码编入索引的代码搜索浏览工具。你可以从代码仓库和安装包甚至是函数里搜索代码，同时也可以直接点击被完全创建了链接的代码来阅读文档、跳转到变量定义或者马上找到可用的Demo。总而言之，你可以在你的web浏览器上完成这一切，而不需要配置任何编辑器。由Sourcegraph出品的这款Chrome插件，可以非常方便的浏览和搜索Github上的代码，持跨repository搜索、跳转到定义、查找引用等功能，宛若一个功能强大的IDE。核心功能如跳转到定义(Go-to-definition)——浏览文件或查看pull请求时，将鼠标悬停在代码上可以查看文档提示，单击即可跳转到定义、查找引用或全文搜索。
+Docker运行 docker run --publish 7080:7080 --rm --volume ~/.sourcegraph/config:/etc/sourcegraph --volume ~/.sourcegraph/data:/var/opt/sourcegraph --volume /var/run/docker.sock:/var/run/docker.sock sourcegraph/server:2.11.2 参考连接  Sourcegraph Github Sourcegraph入门  </description>
+    </item>
     
     <item>
       <title>第一篇原创</title>
