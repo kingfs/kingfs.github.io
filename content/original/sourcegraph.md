@@ -15,6 +15,13 @@ tags: ["git", "scm", "software"]
     # 运行当前最新版本(20181009)
     docker run --publish 7080:7080 --rm --volume ~/.sourcegraph/config:/etc/sourcegraph --volume ~/.sourcegraph/data:/var/opt/sourcegraph --volume /var/run/docker.sock:/var/run/docker.sock sourcegraph/server:2.11.2
 
+## sourcegraph配置 
+    # 除了git代码仓库的配置
+    "experimentalFeatures": {
+        "discussions": "enabled"
+    },
+    
+
 ## Sourcegraph加速方法
 1. 克隆远程镜像
     git clone --mirror YOUR-REPOSITORY-CLONE-URL $HOME/.sourcegraph/data/repos/github.com/my/repo/.git
