@@ -1,0 +1,13 @@
+version: '3.1'
+
+services:
+  sourcegraph:
+    image: sourcegraph/server 
+    ports:
+     - "7080:7080"
+    volumes:
+      - /home/sourcegraph/config:/etc/sourcegraph
+      - /home/sourcegraph/data:/var/opt/sourcegraph
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /root/.ssh:/root/.ssh
+      - /etc/ssl/certs/ca-bundle.trust.crt:/etc/ssl/certs/ca-bundle.trust.crt
