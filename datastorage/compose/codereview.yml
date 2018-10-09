@@ -1,0 +1,41 @@
+version: '3.1'
+
+services:
+  mysql:
+    image: mysql
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=kingfs86
+      - MYSQL_DATABASE=phabricator
+    volumes:
+      - /home/mysql:/var/lib/mysql
+  phabricator:
+    restart: always
+    ports:
+     - "6443:443"
+     - "6080:80"
+     - "6022:22"
+    volumes:
+     - /home/phabricator/repos:/repos
+     - /home/phabricator/extensions:/srv/phabricator/phabricator/src/extensions
+    depends_on:
+     - mysql
+    links:
+     - mysql
+    environment:
+     - MYSQL_HOST=mysql
+     - MYSQL_USER=root
+     - MYSQL_PASS=kingfs86
+     - PHABRICATOR_REPOSITORY_PATH=/repos
+     - PHABRICATOR_HOST=phabricator.cloud.top
+    image: hachque/phabricator
+  sourcegraph:
+    image: sourcegraph/server 
+    ports:
+     - "7080:7080"
+    volumes:
+      - /home/sourcegraph/config:/etc/sourcegraph
+      - /home/sourcegraph/data:/var/opt/sourcegraph
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /root/.ssh:/root/.ssh
+      - /etc/ssl/certs/ca-bundle.trust.crt:/etc/ssl/certs/ca-bundle.trust.crt
