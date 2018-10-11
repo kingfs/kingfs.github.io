@@ -1,0 +1,25 @@
+version: '3'
+services:
+  clickhouse-server:
+    image: docker-hub.cloud.top/vdfw/clickhouse-server
+    ports:
+      - 8123:8123
+      - 9000:9000
+    expose:
+      - 9000
+      - 9009
+    volumes:
+      - ./config.xml:/etc/clickhouse-server/config.xml
+      - ./users.xml:/etc/clickhouse-server/users.xml
+      - ./data:/var/lib/clickhouse
+      - ./log/clickhouse-server.log:/var/log/clickhouse-server/clickhouse-server.log
+      - ./log/clickhouse-server.err.log:/var/log/clickhouse-server/clickhouse-server.err.l
+
+
+  clickhouse-web:
+    image: docker-hub.cloud.top/vdfw/clickhouse-tabix-web-client
+    ports: 
+      - 8080:80
+    environment:
+      USER: "default"
+      PASSWORD: "default"
